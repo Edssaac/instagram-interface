@@ -15,7 +15,7 @@ Um projeto básico focado na recriação da interface de login do Instagram, uti
 
 **Objetivo:**
 
-Desenvolver uma réplica da tela de login do Instagram
+Desenvolver uma réplica da tela de login do Instagram.
 
 **Tecnologias Utilizadas:**
 
