@@ -1,18 +1,23 @@
+## Apresentação Geral
+
+**Nome do Projeto:** Instagram Clone Interface
+
+**Descrição:**
+
+Um projeto básico focado na recriação da interface de login do Instagram, utilizando exclusivamente HTML e CSS.
+
 <div align="center">
-  
-  instagram |
-  :---------------------------------------------------------------------------------------------------------:|
-  Um simples projeto com o objetivo de recriar a interface de login do instagram, usando apenas HTML e CSS.
+
+  ![demo](https://raw.githubusercontent.com/Edssaac/instagram/main/src/img/demo/desktop.png)
+  ![demo](https://raw.githubusercontent.com/Edssaac/instagram/main/src/img/demo/mobile.png)
 
 </div>
 
-### Interface Desktop
-  ![desktop page](https://raw.githubusercontent.com/Edssaac/instagram/main/view/desktop.png)
+**Objetivo:**
 
-### Interface Mobile
-  ![mobile page](https://raw.githubusercontent.com/Edssaac/instagram/main/view/smartphone.png)
+Desenvolver uma réplica da tela de login do Instagram
 
----
+**Tecnologias Utilizadas:**
 
-Projeto na Digital Innovation One: <br>
-https://web.digitalinnovation.one/project/recriando-a-pagina-inicial-do-instagram/learning/9c6e1506-e7c3-473f-8083-6aa4c53d1f45?back=/track/html-web-developer
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
