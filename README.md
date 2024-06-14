@@ -1,6 +1,6 @@
 ## Apresentação Geral
 
-**Nome do Projeto:** Instagram Clone Interface
+**Nome do Projeto:** Instagram Interface
 
 **Descrição:**
 
